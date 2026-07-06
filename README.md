@@ -1,2 +1,11 @@
-# robot-dog-mechanical-design
-Simple 3D robot model designed using Tinkercad. Basic quadruped robot prototype created in Tinkercad. 3D robot body with articulated legs designed for an educational project.
+# 3D Robot Model
+
+A simple 3D robot model created using Tinkercad.
+
+## Features
+- Robot body
+- Four legs
+- Joint-based leg design
+
+## Software
+- Tinkercad
